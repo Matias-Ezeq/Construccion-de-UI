@@ -5,8 +5,6 @@ function App(){
   return <>
     <Header/>
     <Contenido nombre="Raul" cursada="CIU"/>
-    <Contenido nombre="Pancho"/>
-    <Contenido nombre="" cursada="CIU"/>
   </>
 }
 
